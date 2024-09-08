@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259089649410",
+    "project_id": "elocate-e9f37",
+    "storage_bucket": "elocate-e9f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259089649410:android:297fd5d63e7cb948f3fc1b",
+        "android_client_info": {
+          "package_name": "com.example.elocate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-6C5Tuof8tHWNi9HsRn4FNc2CyeZEiTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
